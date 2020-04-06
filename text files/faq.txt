@@ -1,0 +1,4 @@
+:zap: **Frequently Asked Questions** :zap:
+**-----------------------------------------**
+`1.`**Can you make me a custom plugin?**
+Yes, please check <#694225456009969745> pins.
